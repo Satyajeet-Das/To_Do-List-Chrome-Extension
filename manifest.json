@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "ToDo List",
+    "version": "1.0",
+    "description": "A todo list to track your work",
+    "author": "Satyajeet Das",
+    "icons": {
+      "48": "img/icon.png",
+      "128": "img/icon.png"
+    },
+    "action": {
+      "default_icon": "img/icon.png",
+      "default_popup": "index.html",
+      "default_title": "ToDo List"
+    }
+  }

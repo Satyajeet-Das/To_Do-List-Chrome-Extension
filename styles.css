@@ -1,0 +1,16 @@
+body {
+    width: 400px
+}
+
+.task li{
+    display: inline;
+    padding-left: 15px;
+}
+
+.container {
+    text-align: center;
+}
+
+.but {
+    align-self: right;
+}
