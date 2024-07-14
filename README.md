@@ -14,7 +14,7 @@ Welcome to the [Your Extension Name] Chrome Extension! Follow these steps to ins
 Download the extension as a zip file or clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/yourextension.git
+git clone https://github.com/Satyajeet-Das/To_Do-List-Chrome-Extension.git
 ```
 ### 2. Extract the Files (if downloaded as a zip)
 If you downloaded the zip file, extract it to a location of your choice.
