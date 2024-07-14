@@ -1,6 +1,6 @@
 # Chrome Extension Installation Guide
 
-Welcome to the [Your Extension Name] Chrome Extension! Follow these steps to install and set up the extension.
+Welcome to the To-Do List Chrome Extension! Follow these steps to install and set up the extension.
 
 ## Prerequisites
 
@@ -32,8 +32,8 @@ In the top-right corner of the Extensions page, toggle the switch to enable "Dev
 Click on the "Load unpacked" button and select the directory where you extracted or cloned the extension files.
 
 ### 6. Verify Installation
-You should now see the To-Do extension listed on the Extensions page. Ensure the extension is enabled.
+You should now see the To-Do List extension listed on the Extensions page. Ensure the extension is enabled.
 
 ### Usage
-Click on the To-Do icon in the Chrome toolbar.
+Click on the To-Do List icon in the Chrome toolbar.
 Follow any on-screen instructions or prompts to start using the extension.
